@@ -46,7 +46,7 @@ var questions = [
     answer: "pasta",
   }
 ];
-a
+
 // ex01 to ex04: do it all together
 var username = readlinesync.question(chalk.cyanBright("\nWhat is your name? 🙂 : "));
 var uppercaseUsername = username.charAt(0).toUpperCase() + username.slice(1);
