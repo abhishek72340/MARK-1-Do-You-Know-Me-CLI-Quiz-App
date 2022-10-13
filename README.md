@@ -4,7 +4,7 @@
 
 I used node.js readlinesync module to get the input from the terminal and use chalk package to give a colorful look to this CLI app.
 
-This project is part of neog.camp. It is markOne CLI QUIZ APP.</h4>
+This project is part of neog.camp. </h4>
 
 
 
